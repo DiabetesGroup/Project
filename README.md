@@ -1,5 +1,12 @@
 # Predicting Diabetes Hospital Readmissions
 
+Project Members:
+* Bailey Cameron
+* Irina Belaya
+* Nimaliny Krishnan
+
+*Project created to fulfil final requirement of the School of Continuing Studies Machine Learning Course (SCS_3253_047 Machine Learning)
+
 The objective of this project to find an algorithm which predicts readmission of diabetic patients. Predicting the readmission of diabetic patients will help reduce hospital costs and improve the quality of health care.
 
 *Data Set Information*
