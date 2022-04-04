@@ -1,4 +1,5 @@
-# Predicting Diabetes Hospital Readmissions
+# Analysis of Hospital Readmissions in Diabetes Patients
+## Predicting Diabetes Hospital Readmissions using SGD Classifers and Random Forest
 
 Project Members:
 * Bailey Cameron
